@@ -24,9 +24,27 @@ header li {
     margin-right: 80px;
 }
 
+hh2{
+    background-color:#DDDDFF;
+    border-left:solid 5px #00CCFF
+
+}
+hh3{
+   /* background:linear-gradient(transparent 70%,#0000ff ); */
+    color: #0033cc;
+}
+big{
+  font-size:1.5em ;
+}
+secret{
+  color:#30a1a2;
+}
 
 /*背景切り替え用　参考サイト：https://style.potepan.com/articles/24119.html*/
-.aquabg{
-    height: 3000px;
-    background-color: #CCFFFF;
+.blackbg{
+    height: 400px;
+    background-color:#30a1a2;
+    color:#FFFFFF ;
+    text-align:center;
+    font:Arial ;
 }
